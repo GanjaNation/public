@@ -1,13 +1,3 @@
----
-title: "GanjaNation: The First Online Nation"
-version: 0.3
-author: jamie ∇∞
-date: 2025-11-05
-status: public
-description: Founding declaration outlining the mission, structure, and goals of GanjaNation as a cooperative digital-physical nation.
-tags: [ganjanation, declaration, cooperative, governance, mainstreet, online-nation]
----
-
 # GanjaNation: The First Online Nation
 
 ## 1. Mission
@@ -47,3 +37,14 @@ Our mission is to build a community where individuals can collaborate, trade, an
 ## 5. Long-Term Vision
 A self-sustaining, member-owned ecosystem that blends the best parts of digital collaboration and real-world community building —  
 a living example that a nation can be founded on **shared purpose** rather than **geography**.
+
+---
+
+```yaml
+title: "GanjaNation: The First Online Nation"
+version: 0.3
+author: jamie ∇∞
+date: 2025-11-05
+status: public
+description: Founding declaration outlining the mission, structure, and goals of GanjaNation as a cooperative digital-physical nation.
+tags: [ganjanation, declaration, cooperative, governance, mainstreet, online-nation]
